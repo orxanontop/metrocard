@@ -7,8 +7,8 @@ if kklen == 13:
     bal = 1
     gunluk_toplam_artim = 0
     son_emeliyyatlar = []
-    gunluk_gedishler = 0
-    gunluk_odenish = 0
+    gunluk_gedisler = 0
+    gunluk_odenis = 0
     gunluk_endirim = 0
     gunluk_artim = 0
     gunluk_limit = 100
