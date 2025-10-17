@@ -1,2 +1,2 @@
 # metrocard
-baku metro card simulation made insside terminal can be made with ui/ux with tkinter just a quick little project that i made in 3 hours
+baku metro card simulation made with python runs inside terminal.an be made with ui/ux using tkinter just a quick little project that i made in 2 hours
